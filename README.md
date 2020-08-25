@@ -1,2 +1,2 @@
 # VuejsStudy
-Iniciando estudos sobre Vuejs
+Iniciando estudos sobre Vuejs 1
